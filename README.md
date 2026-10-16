@@ -68,7 +68,7 @@ graph LR
     style D fill:#3ECF8E,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-## Tech Stack
+##
 - **Automation Runner:** n8n (Local development instance)
 - **AI Integration:** Google Gemini API via Google AI Studio
 - **Data Layer:** Supabase / PostgreSQL
